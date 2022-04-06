@@ -1,4 +1,4 @@
-package datastructures.BST;
+package datastructures.bst;
 
 import org.junit.jupiter.api.Test;
 

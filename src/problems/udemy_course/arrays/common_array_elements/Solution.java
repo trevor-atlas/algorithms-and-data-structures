@@ -1,4 +1,4 @@
-package problems.udemy_course.common_array_elements;
+package problems.udemy_course.arrays.common_array_elements;
 
 import java.util.Arrays;
 import java.util.HashSet;

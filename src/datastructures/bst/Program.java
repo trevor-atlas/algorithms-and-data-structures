@@ -1,4 +1,4 @@
-package datastructures.BST;
+package datastructures.bst;
 
 public class Program {
 
